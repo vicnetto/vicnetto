@@ -15,5 +15,5 @@
 </br>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicnetto&layout=compact&langs_count=8&card_width=320&exclude_repo=learning,dotfiles,vicnetto-klise&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicnetto&&layout=donut-vertical&langs_count=8&card_width=320&exclude_repo=learning,dotfiles,vicnetto-klise&theme=dracula" />
 </p>
