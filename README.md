@@ -3,17 +3,17 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/victor-henrique-de-moura-netto-37a16b1ab"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
-<a href="https://vicnetto.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=green alt="portfolio" /></a>&nbsp;
+<a href="https://vicnetto.xyz/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=green alt="portfolio" /></a>&nbsp;
 </p>
 
-<br/>
-<p>Spring boot/Java developer with one year of experience. Also a Linux, C++, Shell, C, PostgreSQL enthusiast.</p>
-<br/>
+:smile: Electronic Engineering student in Brazil, pursuing a double degree in Computer Science with a Masters in Internet, Systems, and Security in France.
 
-:smile: Eletronic Engineering student at UTFPR (Brazil). 
+:blue_book: Currently learning cybersecurity, pentesting and competitive programming.
 
-:blue_book: Currently learning shell, java, spring, postgres/couchdb and competitive programming.
+:email: Take a look at my [website](https://vicnetto.xyz) or my [GitLab](https://gitlab.com/vicnetto) for more information, see ya! :blush:
 
-:computer: Working as Junior Java Developer (Spring Boot) at [Ubivis](https://www.ubivis.io/).
+</br>
 
-:email: Take a look at my [website](https://vicnetto.com) or my [GitLab](https://gitlab.com/vicnetto) for more information, see ya! :blush:
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicnetto&layout=compact&langs_count=8&card_width=320&exclude_repo=learning,dotfiles,vicnetto-klise&theme=dracula" />
+</p>
